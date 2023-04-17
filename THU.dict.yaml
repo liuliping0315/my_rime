@@ -1,0 +1,17 @@
+name: THU
+version: "0.0.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+    - THU/THUOCL_IT.dict.yaml
+    - THU/THUOCL_animal.dict.yaml
+    - THU/THUOCL_caijing.dict.yaml
+    - THU/THUOCL_car.dict.yaml
+    - THU/THUOCL_chengyu.dict.yaml
+    - THU/THUOCL_diming.dict.yaml
+    - THU/THUOCL_food.dict.yaml
+    - THU/THUOCL_law.dict.yaml
+    - THU/THUOCL_lishimingren.dict.yaml
+    - THU/THUOCL_medical.dict.yaml
+    - THU/THUOCL_poem.dict.yaml
+    - THU/sogou_new_words.dict.yaml
